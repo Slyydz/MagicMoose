@@ -33,7 +33,6 @@ namespace Intro
                     userInput = Console.ReadLine();
                 }
 
-                System.Environment.Exit(0);
             }
 
             void MooseSays(string message)
